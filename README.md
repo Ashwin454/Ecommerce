@@ -8,4 +8,6 @@ Technologies used:
 6) Redux
 7) Several APIs
 8) REST APIs
+
+   
 I have effectively managed the codebase by implementing a modular approach, wherein each component is organized into separate files. This meticulous structuring ensures clarity and maintainability throughout the project.
